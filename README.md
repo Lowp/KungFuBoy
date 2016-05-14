@@ -11,5 +11,5 @@
 </br></br></br>
 ![image](http://7xt4yx.com1.z0.glb.clouddn.com/kungfuboy_3.png)
 </br></br></br>
-<h3>UML架构图</h3>
+<h3>UML</h3>
 ![image](http://7xt4yx.com1.z0.glb.clouddn.com/kungfuboyUML.png)
