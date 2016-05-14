@@ -7,4 +7,4 @@
 </br></br></br>
 ![image](http://7xt4yx.com1.z0.glb.clouddn.com/kungfuboy_3.png)
 </br></br></br>
-<image scr="http://7xt4yx.com1.z0.glb.clouddn.com/kungfuboy.gif"/>
+<img scr="http://7xt4yx.com1.z0.glb.clouddn.com/kungfuboy.gif"/>
