@@ -3,6 +3,8 @@
 </br>
 <h3><a href="http://7xt4yx.com1.z0.glb.clouddn.com/kungfuboy.gif">Demo演示效果</a></h3>
 </br></br></br>
+<h3>部分截图</h3>
+</br>
 ![image](http://7xt4yx.com1.z0.glb.clouddn.com/kungfuboy_1.png)
 </br></br></br>
 ![image](http://7xt4yx.com1.z0.glb.clouddn.com/kungfuboy_2.png)
