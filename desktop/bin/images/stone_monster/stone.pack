@@ -1,0 +1,187 @@
+
+input1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stoneA
+  rotate: false
+  xy: 2, 2
+  size: 286, 408
+  orig: 286, 408
+  offset: 0, 0
+  index: 8
+stoneA
+  rotate: false
+  xy: 2, 412
+  size: 250, 406
+  orig: 250, 406
+  offset: 0, 0
+  index: 6
+stoneA
+  rotate: false
+  xy: 290, 2
+  size: 320, 398
+  orig: 320, 398
+  offset: 0, 0
+  index: 9
+stoneA
+  rotate: false
+  xy: 2, 820
+  size: 278, 398
+  orig: 278, 398
+  offset: 0, 0
+  index: 7
+stoneA
+  rotate: false
+  xy: 2, 1220
+  size: 284, 396
+  orig: 284, 396
+  offset: 0, 0
+  index: 10
+stoneA
+  rotate: false
+  xy: 2, 1618
+  size: 198, 366
+  orig: 198, 366
+  offset: 0, 0
+  index: 5
+stoneA
+  rotate: false
+  xy: 612, 2
+  size: 296, 358
+  orig: 296, 358
+  offset: 0, 0
+  index: 11
+stoneDie
+  rotate: false
+  xy: 910, 2
+  size: 311, 315
+  orig: 311, 315
+  offset: 0, 0
+  index: 2
+stoneA
+  rotate: false
+  xy: 1223, 2
+  size: 204, 314
+  orig: 204, 314
+  offset: 0, 0
+  index: 4
+stoneA
+  rotate: false
+  xy: 1429, 2
+  size: 284, 300
+  orig: 284, 300
+  offset: 0, 0
+  index: 12
+stoneDie
+  rotate: false
+  xy: 1715, 2
+  size: 297, 289
+  orig: 297, 289
+  offset: 0, 0
+  index: 3
+stoneDie
+  rotate: false
+  xy: 290, 402
+  size: 277, 287
+  orig: 277, 287
+  offset: 0, 0
+  index: 6
+stoneHurt
+  rotate: false
+  xy: 290, 691
+  size: 237, 281
+  orig: 237, 281
+  offset: 0, 0
+  index: 2
+stoneDie
+  rotate: false
+  xy: 290, 974
+  size: 237, 281
+  orig: 237, 281
+  offset: 0, 0
+  index: 1
+stoneDie
+  rotate: false
+  xy: 569, 402
+  size: 309, 269
+  orig: 309, 269
+  offset: 0, 0
+  index: 4
+stoneWalk
+  rotate: false
+  xy: 290, 1257
+  size: 258, 264
+  orig: 258, 264
+  offset: 0, 0
+  index: 1
+stoneHurt
+  rotate: false
+  xy: 290, 1523
+  size: 258, 264
+  orig: 258, 264
+  offset: 0, 0
+  index: 3
+stoneHurt
+  rotate: false
+  xy: 880, 402
+  size: 258, 264
+  orig: 258, 264
+  offset: 0, 0
+  index: 1
+stoneA
+  rotate: false
+  xy: 1140, 402
+  size: 246, 264
+  orig: 246, 264
+  offset: 0, 0
+  index: 3
+stoneA
+  rotate: false
+  xy: 1388, 402
+  size: 232, 264
+  orig: 232, 264
+  offset: 0, 0
+  index: 2
+stoneA
+  rotate: false
+  xy: 1622, 402
+  size: 230, 264
+  orig: 230, 264
+  offset: 0, 0
+  index: 1
+stoneWalk
+  rotate: false
+  xy: 569, 673
+  size: 202, 264
+  orig: 202, 264
+  offset: 0, 0
+  index: 2
+stoneDie
+  rotate: false
+  xy: 773, 673
+  size: 273, 263
+  orig: 273, 263
+  offset: 0, 0
+  index: 7
+stoneWalk
+  rotate: false
+  xy: 1048, 673
+  size: 258, 262
+  orig: 258, 262
+  offset: 0, 0
+  index: 3
+stoneDie
+  rotate: false
+  xy: 1308, 673
+  size: 257, 259
+  orig: 257, 259
+  offset: 0, 0
+  index: 5
+stoneDie
+  rotate: false
+  xy: 1567, 673
+  size: 313, 173
+  orig: 313, 173
+  offset: 0, 0
+  index: 8

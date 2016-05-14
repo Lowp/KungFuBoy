@@ -1,0 +1,44 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.Touchpad$TouchpadStyle:{
+	trackball: {background:trackball-bg,knob : trackball},
+},
+
+com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle:{
+	btn_fist:{up:fist-up,down:fist-down},
+	btn_foot:{up:foot-up,down:foot-down},
+	btn_jump:{up:jump-up,down:jump-down},
+	btn_skills_dao:{up:skills-dao-up,down:skills-dao-down},
+	btn_skills_fist:{up:skills-fist-up,down:skills-fist-down},
+	btn_skills_gun:{up:skills-gun-up,down:skills-gun-down},
+	btn_sure:{up:sure-up,down:sure-down},
+	btn_select_left:{up:left-up,down:left-down},
+	btn_select_right:{up:right-up,down:right-down},
+	btn_select_tiaozhan:{up:tiaozhan-up ,down:tiaozhan-down},
+	btn_pause:{up:pause-up ,down:pause-down},
+	btn_select_back:{up:CloseNormal ,down:CloseSelected},
+	
+	btn_tiaozhan:{up:ChallengeNormal ,down:ChallengeSelected},
+	btn_chaungguan:{up:EmigratedNormal ,down:EmigratedSelected},
+	btn_setting:{up:SetNormal ,down:SetSelected},
+	btn_help:{up:HelpNormal ,down:HelpSelected},
+	btn_miji:{up:CheatsNormal ,down:CheatsSelected},
+	btn_tuji:{up:PhotoGalleryNormal ,down:PhotoGallerySelected},
+	
+	btn_restart:{up:againNormal ,down:againSelected},
+	btn_next:{up:nextNormal ,down:nextSelected},
+	btn_next_disable:{up:nextDisable ,down:nextDisable},
+	btn_play:{up:playNormal ,down:playSelected},
+	btn_home:{up:backNormal ,down:backSelected},
+	btn_Sound_on:{up:musicOn ,down:musicSelected},
+	btn_Sound_off:{up:musicOff ,down:musicSelected},
+	
+},
+
+
+com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: {
+	slider_music: { background: bgBar, knob: ThumbBtn },
+},
+
+
+
+}
