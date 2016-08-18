@@ -12,4 +12,4 @@
 <img src="http://7xt4yx.com1.z0.glb.clouddn.com/kungfuboy_03.png"/>
 </br></br></br>
 <h3>UML</h3>
-<img src="http://7xt4yx.com1.z0.glb.clouddn.com/kungfuboyUML.pn"/>
+<img src="http://7xt4yx.com1.z0.glb.clouddn.com/kungfuboyUML.png"/>
