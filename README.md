@@ -5,7 +5,7 @@
 </br></br></br>
 <h3>部分截图</h3>
 </br>
-<img src="http://7xt4yx.com1.z0.glb.clouddn.com/kungfuboy_01.png" width="250" height="100"/>
+<img src="http://7xt4yx.com1.z0.glb.clouddn.com/kungfuboy_01.png"/>
 </br></br></br>
 <img src="http://7xt4yx.com1.z0.glb.clouddn.com/kungfuboy_02.png"/>2
 </br></br></br>
